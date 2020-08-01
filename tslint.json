@@ -1,0 +1,35 @@
+{
+  "extends"        : [],
+  "defaultSeverity": "warning",
+  "linterOptions"  : {
+    "exclude": [
+      "node_modules/**/*",
+      "dist/**/*",
+      "build/**/*"
+    ]
+  },
+  "rules": {
+    "no-duplicate-imports"    : true,
+		"return-undefined"        : false,
+		"trailing-comma"          : false,
+    "no-implicit-dependencies": [
+      true,
+      [
+        "@actions",
+        "@assets",
+        "@constants",
+        "@components",
+        "@helpers",
+        "@layouts",
+        "@interfaces",
+        "@providers",
+        "@reducers",
+        "@services",
+        "@styles",
+        "@views",
+        "@utils"
+      ]
+    ],
+    "no-submodule-imports": false
+  }
+}
