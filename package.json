@@ -121,7 +121,7 @@
     "@testing-library/user-event": "12.0.17",
     "@types/axios": "0.14.0",
     "@types/axios-mock-adapter": "1.10.0",
-    "@types/core-js": "2.5.3",
+    "@types/core-js": "2.5.4",
     "@types/history": "4.7.7",
     "@types/i18next": "13.0.0",
     "@types/i18next-browser-languagedetector": "3.0.0",
