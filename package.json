@@ -177,7 +177,7 @@
     "sass-loader": "9.0.2",
     "serviceworker-webpack-plugin": "1.0.1",
     "stylelint-config-recommended": "3.0.0",
-    "tailwindcss": "1.6.0",
+    "tailwindcss": "1.8.10",
     "tailwindcss-dir": "4.0.0",
     "tsconfig-paths-webpack-plugin": "3.3.0",
     "typescript": "3.9.7",
