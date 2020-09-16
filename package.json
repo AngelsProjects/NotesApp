@@ -58,7 +58,7 @@
     "react-dom": "16.13.1"
   },
   "dependencies": {
-    "@csstools/normalize.css": "10.1.0",
+    "@csstools/normalize.css": "11.0.1",
     "@fortawesome/fontawesome-svg-core": "1.2.30",
     "@fortawesome/free-brands-svg-icons": "5.14.0",
     "@fortawesome/free-regular-svg-icons": "5.14.0",
