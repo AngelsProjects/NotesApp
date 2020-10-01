@@ -32,6 +32,7 @@ const jss = create({
   insertionPoint
 });
 const generateClassName = createGenerateClassName();
+
 const muiTheme = createMuiTheme({});
 
 export default ({ history }: { history: History }) => (
