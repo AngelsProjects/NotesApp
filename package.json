@@ -79,7 +79,7 @@
     "i18next-xhr-backend": "3.2.2",
     "immutable": "4.0.0-rc.12",
     "jss": "10.3.0",
-    "jss-plugin-extend": "10.3.0",
+    "jss-plugin-extend": "10.10.0",
     "jss-rtl": "0.3.0",
     "material-icons": "0.3.1",
     "mobile-detect": "1.4.4",
