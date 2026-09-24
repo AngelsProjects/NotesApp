@@ -184,7 +184,7 @@
     "uglifyjs-webpack-plugin": "2.2.0",
     "webpack": "4.44.1",
     "webpack-cli": "3.3.12",
-    "webpack-dev-server": "3.11.0",
+    "webpack-dev-server": "5.2.6",
     "webpack-node-externals": "2.5.2",
     "yarn": "1.22.4"
   }
