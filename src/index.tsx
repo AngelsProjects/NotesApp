@@ -10,8 +10,9 @@ import * as serviceWorker from './serviceWorker';
 
 const history: History = createBrowserHistory();
 
-const render = () =>
+const render = () => {
   ReactDOM.render(<App history={history} />, document.getElementById('root'));
+};
 
 render();
 

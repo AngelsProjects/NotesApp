@@ -86,6 +86,7 @@
       }
     ],
     "react/jsx-fragments"         : "off",
+    "react/jsx-no-bind"           : "off",
     "react/jsx-props-no-spreading": "off",
     "react/no-array-index-key"    : "off",
     "react/no-danger"             : "off",
