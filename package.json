@@ -64,7 +64,7 @@
     "@material-ui/icons": "4.11.3",
     "@material-ui/lab": "4.0.0-alpha.61",
     "@material-ui/pickers": "3.3.11",
-    "@material-ui/styles": "4.11.5",
+    "@mui/styles": "5.0.0",
     "axios": "0.35.0",
     "axios-mock-adapter": "1.22.0",
     "clsx": "1.2.1",
