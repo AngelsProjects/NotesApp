@@ -17,7 +17,7 @@ const { deploy } = process.env;
 module.exports = {
   context  : __dirname,
   devServer: {
-    contentBase       : path.join(__dirname, 'build'),
+    static            : path.join(__dirname, 'build'),
     historyApiFallback: true,
     hot               : true,
     port              : 3000
